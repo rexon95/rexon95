@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @rexon95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Rexon Dmello
+I'm Rexon from Mangalore, and I do web Development. I really enjoy learning javascript and React, as well as work in WordPress. 
 
-<!---
-rexon95/rexon95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills and Experience
+* ⚛ React, Redux
+* 💻 HTML, CSS, BOOTSTRAP JS
