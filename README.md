@@ -1,5 +1,5 @@
 # Rexon Dmello
-I'm Rexon from Mangalore, and I do web Development. I really enjoy learning javascript and React, as well as work in WordPress. 
+I'm Rexon from Mangalore, and I do web Development. I really enjoy learning javascript ,React, Node and Mongodb, as well as work in WordPress. 
 
 ## Skills and Experience
 * ⚛ React, Redux, Thunk, Redux-saga, Redux Toolkit
